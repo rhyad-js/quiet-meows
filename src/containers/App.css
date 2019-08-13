@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'quiet_meowsregular';
+    src: url('quietmeows-o20e-webfont.woff2') format('woff2'),
+         url('quietmeows-o20e-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+  font-family: 'quiet_meowsregular';
+  font-weight: 300;
+  color: rgb(247, 215, 255);
+}
